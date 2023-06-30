@@ -7,3 +7,4 @@ Because i have created new folder and then create new file in this folder. But i
 Git said "fatal: pathspec 'new lesson.md' did not match any files".
 
 ### Попытка описать проблему
+Будем сливать ветку 1 и 2
