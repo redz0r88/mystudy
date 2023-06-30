@@ -9,3 +9,4 @@ Git said "fatal: pathspec 'new lesson.md' did not match any files".
 
 ### Попытка описать проблему
 Будем сливать ветку 1 и 2
+Внес изменения в файл из браузера.
